@@ -1,8 +1,8 @@
 {
-  "version": "0.1.6",
-  "builtAt": "2026-10-20T14:20:19.842Z",
-  "commit": "843f6ae",
+  "version": "0.1.7",
+  "builtAt": "2026-10-20T14:49:03.228Z",
+  "commit": "78a9460",
   "notes": [
-    "Import de modèles 3D (.glb) : remplacez la réplique ou un accessoire par votre scan ou un modèle Blender"
+    "Modèles 3D détaillés intégrés au catalogue : le bouton d'import .glb est retiré de l'interface"
   ]
 }
