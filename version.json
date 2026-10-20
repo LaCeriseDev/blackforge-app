@@ -1,8 +1,8 @@
 {
-  "version": "0.1.5",
-  "builtAt": "2026-10-20T13:44:07.267Z",
-  "commit": "8e507be",
+  "version": "0.1.6",
+  "builtAt": "2026-10-20T14:20:19.842Z",
+  "commit": "843f6ae",
   "notes": [
-    "5 nouvelles répliques (HK416D Specna, KS-1 GBBR, G18C WE, G19X SRC, Staccato P) et finitions perso : coloris, aspects de surface, couleur par composant"
+    "Import de modèles 3D (.glb) : remplacez la réplique ou un accessoire par votre scan ou un modèle Blender"
   ]
 }
