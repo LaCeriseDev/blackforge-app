@@ -1,6 +1,8 @@
 {
-  "version": "0.1.1",
-  "builtAt": "2026-10-20T12:01:49.027Z",
-  "commit": "94b4ac9",
-  "notes": []
+  "version": "0.1.2",
+  "builtAt": "2026-10-20T12:04:42.198Z",
+  "commit": "7ddc007",
+  "notes": [
+    "Notes de version complètes dès la première publication"
+  ]
 }
