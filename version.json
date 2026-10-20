@@ -1,8 +1,8 @@
 {
-  "version": "0.1.3",
-  "builtAt": "2026-10-20T12:07:24.338Z",
-  "commit": "3b170fa",
+  "version": "0.1.4",
+  "builtAt": "2026-10-20T13:03:26.272Z",
+  "commit": "5c71ee8",
   "notes": [
-    "Installation des mises à jour fiable même à la première visite, version publiée affichée correctement"
+    "Compte facultatif : synchronisation entre appareils et partage de configurations par lien"
   ]
 }
