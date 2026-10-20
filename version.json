@@ -1,8 +1,8 @@
 {
-  "version": "0.1.4",
-  "builtAt": "2026-10-20T13:03:26.272Z",
-  "commit": "5c71ee8",
+  "version": "0.1.5",
+  "builtAt": "2026-10-20T13:44:07.267Z",
+  "commit": "8e507be",
   "notes": [
-    "Compte facultatif : synchronisation entre appareils et partage de configurations par lien"
+    "5 nouvelles répliques (HK416D Specna, KS-1 GBBR, G18C WE, G19X SRC, Staccato P) et finitions perso : coloris, aspects de surface, couleur par composant"
   ]
 }
