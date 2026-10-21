@@ -1,8 +1,18 @@
 {
-  "version": "0.1.7",
-  "builtAt": "2026-10-20T14:49:03.228Z",
-  "commit": "78a9460",
+  "version": "0.1.8",
+  "builtAt": "2026-10-21T17:39:06.869Z",
+  "commit": "c205f56",
   "notes": [
-    "Modèles 3D détaillés intégrés au catalogue : le bouton d'import .glb est retiré de l'interface"
+    "KS-1 : guidon en palette à encoche en V, œilleton de la hausse dans l'axe du canon",
+    "KS-1 : bout du garde-main ouvert sans fond sombre (intérieur du tube visible autour du canon)",
+    "KS-1 : jonction pleine entre pontet et poignée, scintillements supprimés, bout du garde-main ouvert",
+    "KS-1 : organes de visée KAC détaillés (guidon à oreilles en V, hausse à molettes et œilleton)",
+    "KS-1 : bas du puits en biais et chargeur ajusté, semelle PMAG corrigée, joint entre pontet et poignée",
+    "KS-1 : jonction carcasse / poignée fidèle, talon de la poignée logé dans l'échancrure de la carcasse",
+    "KS-1 relevée au pixel sur photos HD : poignée, chargeur, pontet et crosse aux contours exacts, creux de la crosse",
+    "KS-1 : vrai relief sur la crosse, le chargeur et la poignée, garde-main octogonal, pontet fidèle",
+    "KS-1 relevée pièce par pièce sur photos et vidéo 360° : garde-main octogonal, crosse B5 Bravo fidèle, carcasse KAC détaillée",
+    "Vue épurée (touche V) : la réplique seule, de profil, pour la comparer à une photo",
+    "KS-1 GBBR fidèle à la réplique : carcasse KAC, garde-main URX 13\", crosse B5 Bravo, poignée B5, chargeur PMAG, coloris FDE"
   ]
 }
