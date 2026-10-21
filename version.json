@@ -1,13 +1,11 @@
 {
-  "version": "0.1.9",
-  "builtAt": "2026-10-21T19:23:07.199Z",
-  "commit": "93192c6",
+  "version": "0.1.10",
+  "builtAt": "2026-10-21T21:12:29.088Z",
+  "commit": "566ad14",
   "notes": [
-    "Rails KeyMod, Weaver et queue d'aronde 11 mm : garde-main KeyMod, embase interchangeable de la VSR-10, compatibilité des optiques",
-    "Caches de rail : cache à lamelles sur les tronçons et bouchons de fentes M-LOK, en couleur",
-    "Lampe, laser, poignée et bipied fixables sur un tronçon de rail, orientés selon la face et réglables en position",
-    "Tronçons de rail Picatinny sur les fentes M-LOK du garde-main : face, longueur, position et couleur",
-    "Viseur point rouge Sig Sauer ROMEO5 1×20, sur rehausse co-witness ou embase basse",
-    "Rails Picatinny au profil exact de la norme et position de l'optique réglable créneau par créneau"
+    "ROMEO5 : arêtes du boîtier reprises (bande supérieure, flanc plat, pan à rainures, biseau avant) et rehausse à arête en S",
+    "ROMEO5 : optique traversante, verre ambré seulement à l'avant, oculaire clair avec le point rouge visible",
+    "ROMEO5 refait d'après photos HD : boîtier à pans, bouchon de pile et tourelles, marquages SIG SAUER, rehausse à tunnel",
+    "Lampes et laser réels : Surefire M600DF et M300C sur embase M75, Streamlight TLR-1 HL, L3Harris AN/PEQ-15"
   ]
 }
