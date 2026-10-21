@@ -1,11 +1,9 @@
 {
-  "version": "0.1.10",
-  "builtAt": "2026-10-21T21:12:29.088Z",
-  "commit": "566ad14",
+  "version": "0.1.11",
+  "builtAt": "2026-10-21T22:58:41.246Z",
+  "commit": "e89e4e9",
   "notes": [
-    "ROMEO5 : arêtes du boîtier reprises (bande supérieure, flanc plat, pan à rainures, biseau avant) et rehausse à arête en S",
-    "ROMEO5 : optique traversante, verre ambré seulement à l'avant, oculaire clair avec le point rouge visible",
-    "ROMEO5 refait d'après photos HD : boîtier à pans, bouchon de pile et tourelles, marquages SIG SAUER, rehausse à tunnel",
-    "Lampes et laser réels : Surefire M600DF et M300C sur embase M75, Streamlight TLR-1 HL, L3Harris AN/PEQ-15"
+    "Chargeur PMAG : nervures et logo ancrés dans le corps, plus de jour visible entre le relief et le chargeur",
+    "Chargeur PMAG : semelle mince et inclinée, grille de nervures sur les flancs ; vue épurée « Arrière » à hauteur de viseur"
   ]
 }
