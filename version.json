@@ -1,9 +1,10 @@
 {
-  "version": "0.1.12",
-  "builtAt": "2026-10-22T23:56:21.785Z",
-  "commit": "d98e582",
+  "version": "0.1.13",
+  "builtAt": "2026-10-23T00:25:04.825Z",
+  "commit": "5519cba",
   "notes": [
-    "Pièces anodisées : teinte au choix pour le canon, la détente, le tube de crosse, les commandes et les axes",
-    "Pastille « Détaillé » sur les modèles réalistes et réglage pour n'afficher qu'eux dans l'Arsenal et l'atelier"
+    "Pièces anodisées : 17 teintes (argent, champagne, cuivre, or, vert, orange, rose, violet, bleu ciel…) et couleur sur mesure",
+    "V-MAG V3 : semelle effilée à bord chanfreiné, arêtes du chargeur arrondies sur toute la longueur",
+    "Chargeur VFC V-MAG V3 d'après photos : tête gaz et poussoir rouge, marquages, dessous de semelle avec valve et nervures"
   ]
 }
