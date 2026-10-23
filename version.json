@@ -1,26 +1,8 @@
 {
-  "version": "0.1.14",
-  "builtAt": "2026-10-23T19:40:46.876Z",
-  "commit": "41bf5e1",
+  "version": "0.1.15",
+  "builtAt": "2026-10-23T20:36:22.085Z",
+  "commit": "fb085ec",
   "notes": [
-    "Chargeurs arrondis dans la continuité de la poignée (F18 et V-MAG de la KS-1), détente de la KS-1 de nouveau visible",
-    "F18 : poignée galbée pour la paume (aussi la B5 de la KS-1), queue de castor courbe, pontet fin, bloc du canon arrondi et gravé",
-    "F18 : dentelures en vrai relief (fond creusé jusqu'à l'arête haute), fenêtre d'éjection entaillée et hausse fidèle",
-    "F18 : dentelures du haut de culasse fidèles, losanges plats cerclés d'une rainure dans une bande inclinée",
-    "F18 : biseau oblique décalé vers l'avant, son arête haute dans l'axe de la première rayure",
-    "F18 : biseau oblique propre, dans l'axe de la première rayure et parallèle à la grande cassure",
-    "F18 : niveaux du cache-poussière d'après les zones surlignées (plein, fond creux, intermédiaire, biseau bas prolongé)",
-    "F18 : cache-poussière taillé d'un seul volume, grande cassure en biseau jusqu'à la culasse, rayures sur le fond abaissé",
-    "F18 : biseaux du cache-poussière pincés à l'avant, arête droite jusqu'au bout, biseau bas prolongé jusqu'à la première rayure",
-    "F18 : cache-poussière à biseaux inclinés (haut, cassure arrière, bas) et zone plate, comme sur la réplique",
-    "F18 : cassures du cache-poussière parallèles aux rayures, biseau et abaissement de deux pas de rayure",
-    "F18 : rayons de la poignée qui convergent vers le dos de la poignée, comme sur la réplique",
-    "F18 : bords des creux du cache-poussière dans le prolongement des rayures obliques",
-    "F18 : guidon à sa vraie forme (becs avant et arrière, gorge et fibre orange en saillie)",
-    "F18 : creux du cache-poussière plus profonds (1 mm puis 2,2 mm), ombrés sous les arêtes",
-    "F18 : cache-poussière en trois niveaux de creux, comme sur la réplique",
-    "F18 : commandes fidèles (arrêtoir, levier, détente, bouton de chargeur), encoches culasse/carcasse, rayons de poignée corrigés",
-    "Nouvelle réplique WE F18 V2 Tan (type P320 X-Carry Wilson Combat) relevée sur photos, avec son chargeur 20 billes",
-    "Rails usinés dans la carcasse ou le garde-main : même couleur que leur pièce (M4, 416, SR-25, quad rail HK, AK)"
+    "Nouvelle lampe Surefire X300 Ultra en deux versions (collier Rail-Lock X300U-A, collier à molette X300U-B), relevée sur les photos officielles"
   ]
 }
