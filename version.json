@@ -1,8 +1,8 @@
 {
-  "version": "0.1.16",
-  "builtAt": "2026-10-23T21:13:17.944Z",
-  "commit": "9fecb2a",
+  "version": "0.1.17",
+  "builtAt": "2026-10-23T21:52:41.456Z",
+  "commit": "9e9ef3a",
   "notes": [
-    "Vue éclatée : le chargeur coulisse hors de son puits, dans l'axe de la poignée sur les pistolets"
+    "Vue éclatée : lampes, lasers, optiques et accessoires glissent le long de leur rail jusqu'à en sortir"
   ]
 }
