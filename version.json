@@ -1,8 +1,22 @@
 {
-  "version": "0.1.17",
-  "builtAt": "2026-10-23T21:52:41.456Z",
-  "commit": "9e9ef3a",
+  "version": "0.1.18",
+  "builtAt": "2026-10-23T23:31:17.004Z",
+  "commit": "f68f14c",
   "notes": [
-    "Vue éclatée : lampes, lasers, optiques et accessoires glissent le long de leur rail jusqu'à en sortir"
+    "Viseur holographique et holo + grossisseur : modèles génériques conservés en attendant de meilleures références EOTech",
+    "G33 : semelle de l'embase STS ramenée au bord du rail, sans débord à gauche",
+    "G33 tenu par un collier autour du tube d'objectif ; matériaux des optiques (anodisé satiné, verres traités irisés)",
+    "G33 : embase basculante STS refaite d'après la vue arrière (col, bras, charnière latérale, semelle continue)",
+    "G33 transparent : on voit l'EXPS3 et son réticule à travers le grossisseur",
+    "Micro T-2 transparent (on voit à travers le tube) et disque flottant retiré de l'EXPS3",
+    "Bipied Magpul (Picatinny) à pieds évasés et patins type Atlas (remplace le bipied générique)",
+    "Silencieux court SureFire SOCOM556-MINI2 (remplace le silencieux court générique)",
+    "Cache-flamme compensé SureFire WarComp 5.56 (remplace le compensateur générique)",
+    "Poignée angulaire Magpul AFG-2 (remplace la poignée angulaire générique)",
+    "Silencieux SureFire SOCOM556-RC2 à collier Fast-Attach (remplace le silencieux long générique)",
+    "Poignée verticale Magpul RVG galbée pour la main (remplace la poignée verticale générique)",
+    "Point rouge Aimpoint Micro T-2 sur embase LRP 39 mm (remplace le point rouge micro générique)",
+    "Grossisseur EOTech G33 sur embase STS, monté derrière l'EXPS3 (remplace le holo + magnifier générique)",
+    "Viseur holographique EOTech HWS EXPS3 relevé sur les photos officielles (remplace le viseur holographique générique)"
   ]
 }
